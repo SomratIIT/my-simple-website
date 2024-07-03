@@ -1,0 +1,13 @@
+div{
+    background-color: aqua;
+    width: 50%;
+    border: 5px solid red;
+    border-radius: 25px;
+    margin: 20px 30px 40px;
+    padding: 10px 20px;
+
+}
+h2{
+    text-decoration: overline;
+    display: inline-block;
+}
